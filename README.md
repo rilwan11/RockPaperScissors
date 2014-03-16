@@ -3,7 +3,7 @@
 ## Install
 First, you must run:
         
-    bundle install
+        bundle install
     
 This should setup all the dependencies. 
 
@@ -15,14 +15,14 @@ This will install the needed server
 
 Install the “sinatra” gem:
 
-   ruby install sinatra
+        ruby install sinatra
 
 This will install the sinatra gem        
 
 To run:
 
-   ruby app.rb
+        ruby app.rb
 
 This will start the server and give you a port number:
 
-   localhost:”port number”
+        localhost:”port number”
