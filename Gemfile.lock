@@ -13,7 +13,7 @@ GEM
     daemons (1.1.9)
     eventmachine (1.0.3)
     rack (1.6.11)
-    rack-protection (1.5.2)
+    rack-protection (1.5.5)
       rack
     thin (1.6.0)
       daemons (>= 1.0.9)
